@@ -1,0 +1,13 @@
+ipykernel
+dotenv
+
+#LLMs
+OpenAI
+#AzureOpenAI
+
+#Install the LangChain partner package
+langchain-openai
+#AzureOpenAI
+
+#Chat model
+#AzureChatOpenAI
